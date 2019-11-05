@@ -1,5 +1,7 @@
 name: demo
 version: 0.0.1
+icon: "airballoon.svg"
+
 inputs:
 - name: FLOWCI_DEMO_ENV
   type: string
